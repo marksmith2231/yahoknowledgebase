@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Total Defense Premium Download & Install Made Easy: Activation, Login, and Already Purchased"
+html_title = "Yahoo Mail Already Signed In—Error? Fix Yahoo Email Login Without Password, Account Recovery & Old Mail Sign-In Woes"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
